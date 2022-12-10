@@ -1,6 +1,6 @@
 - 👋 Hi, I’m E otherwise known as //Sol!tude or Ompi.
 - 👀 I’m interested in Software Engineering and system administration.
-- 🌱 I’m currently learning C, Java, extended python and virtulization techniques (AMD-v, GPU-passthrough, etc)
+- 🌱 I’m currently learning C, C++, Java, RISCV-ASM and virtulization techniques (AMD-v, GPU-passthrough, etc)
 - 📚 Currently studying Computer Science an Engineering at University of Ioannina.
 - 📫 You can email me at lavasolitude@gmail.com or find me on discord @//Sol!tude#9473
 
